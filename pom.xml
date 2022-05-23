@@ -9,6 +9,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>spring-ioc-space</module>
+        <module>algorithm-space</module>
     </modules>
 
     <properties>
