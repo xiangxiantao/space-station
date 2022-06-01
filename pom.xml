@@ -11,6 +11,7 @@
         <module>spring-ioc-space</module>
         <module>algorithm-space</module>
         <module>apollo-space</module>
+        <module>data-playground</module>
     </modules>
 
     <properties>
